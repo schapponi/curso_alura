@@ -8,5 +8,3 @@ node app.js
 ```
 
 :)
-
-modificação indesejada
